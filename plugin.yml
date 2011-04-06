@@ -1,0 +1,11 @@
+name: Nations
+version: 0.01
+description: Allows the creation of Nations, based on Towny
+author: VicWhiten
+website: www.github.com/MinecraftNations
+main: com.bukkit.minecraftnations.nations.Nations
+commands:
+  nations:
+    description: TBD
+    usage: |
+           /<command> [subcommand] [args]
